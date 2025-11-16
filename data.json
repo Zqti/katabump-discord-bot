@@ -1,0 +1,30 @@
+{
+  "userStats": {
+    "1146692880216379423": {
+      "totalSessions": 83,
+      "totalTime": 4565,
+      "weeklySessions": 8,
+      "weeklyTime": 287,
+      "activeFarms": 1
+    },
+    "1200401481786990683": {
+      "totalSessions": 0,
+      "totalTime": 0,
+      "weeklySessions": 0,
+      "weeklyTime": 420,
+      "activeFarms": 0
+    }
+  },
+  "activeFarms": {},
+  "logChannels": {
+    "fullFarm": null,
+    "earlyEnd": null,
+    "lordBan": null
+  },
+  "lordBans": {},
+  "reminderChannels": [],
+  "lordBanned": [],
+  "hostRoles": [],
+  "farmRoles": [],
+  "lordbanSetupComplete": false
+}
